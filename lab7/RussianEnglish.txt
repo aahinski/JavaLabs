@@ -1,0 +1,19 @@
+Колодищи_Kalodzishchy
+Смолевичи_Smalievichy
+Жодино_Zhodzina
+Борисов_Barysau
+Масюковщина_Masiukoushchyna
+Ждановичи_Zhdanovichy
+Ратомка_Ratomka
+Зеленое_Zialionaje
+Минское море_Minskaje Mora
+Беларусь_Bielarus
+Курасовщина_Kurasoushchyna
+Роща_Haj
+Фаниполь_Fanipal
+Дзержинск_Dziarzhynsk
+Колосово_Kolasava
+Минск-Борисов_Minsk-Barysau
+Минск-Зеленое_Minsk-Zialionaje
+Минск-Беларусь_Minsk-Bielarus
+Минск-Колосово_Minsk-Kolasava
